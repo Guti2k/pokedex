@@ -1,0 +1,6 @@
+body {
+    background-image: url(../img/kanto-map.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Esto hace que el fondo se mantenga fijo al hacer scroll */
+}
