@@ -9,4 +9,11 @@ body {
 #Pokemon {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(0, 0, 0, 0.5); /* Color negro con 50% de opacidad */
+    color: white; /* Color del texto */
+    padding: 10px; /* Espaciado interno del contenedor *
+
 }
+
+
+  
