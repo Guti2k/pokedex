@@ -7,10 +7,10 @@ body {
 }
 
 #Pokemon {
-    text-align: center;
+    text-align:center;
+    display: inline-block;
     font-family: 'Courier New', Courier, monospace;
     background-color: rgba(0, 0, 0, 0.5); 
     color: white; 
-    padding: 10px;
     
 }
