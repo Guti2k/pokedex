@@ -5,3 +5,8 @@ body {
         background-attachment: fixed; 
     
 }
+
+#Pokemon {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
