@@ -18,8 +18,11 @@ body {
 }
 
 #columnas {
-    
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
 }
+
 img{
     height: 20%;
     width: 20%;
