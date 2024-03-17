@@ -26,7 +26,6 @@ a{
     margin-right: 40%;
     color: white;
     background-color: red;
-    border-radius: 8px;
-    font-size: 150%;
     text-decoration: none;
+    display: inline-block;
 }
