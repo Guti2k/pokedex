@@ -1,0 +1,37 @@
+body {
+    background-image: url(../img/charmander.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+
+}
+
+#charmander{
+    margin-left: 45%;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    margin-right: 45%;
+}
+img{
+    height: 20%;
+    width: 20%;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 150%;
+}
+div{
+    background-color: orange;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 150%;
+}
+
+a{
+    margin-left: 45%;
+    margin-right: 40%;
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    display: inline-block;
+}
