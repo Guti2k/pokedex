@@ -17,13 +17,13 @@ img{
     width: 20%;
 }
 p{
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 150%;
 }
 div{
     background-color: orange;
-    border-radius: 10px;
-    display: inline;
+    border-radius: 5px;
+    display: inline-block;
     font-size: 150%;
 }
 
