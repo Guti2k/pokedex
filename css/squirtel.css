@@ -35,7 +35,7 @@ p{
 }
 
 div{
-    background-color: orange;
+    background-color: rgb(98, 30, 208);
     border-radius: 5px;
     display: inline-block;
     font-size: 150%;
@@ -45,7 +45,7 @@ a{
     margin-left: 45%;
     margin-right: 40%;
     color: white;
-    background-color: red;
+    background-color: rgb(178, 110, 110);
     text-decoration: none;
     display: inline-block;
     text-align: center;
