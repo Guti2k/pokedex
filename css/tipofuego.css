@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Silkscreen:wght@400;700&display=swap');
+
 body {
     background-image: url(../img/Fondos_de_los_pokemonos/charmander.jpg);
     background-size: cover;
@@ -7,10 +9,12 @@ body {
 }
 
 #evolucion {
+    font-family: "Press Start 2P", system-ui;
     text-align: center;
 }
 
 #charmander{
+    font-family: "Press Start 2P", system-ui;
     margin-left: 45%;
     font-size: 50px;
     color: rgb(255, 255, 255);
@@ -18,19 +22,24 @@ body {
 }
 
 .Charmelon {
+    font-family: "Press Start 2P", system-ui;
     text-align: center;
 }
 
 img{
+    font-family: "Press Start 2P", system-ui;
     height: 20%;
     width: 20%;
 }
 p{
+    font-family: "Press Start 2P", system-ui;
     color: rgb(255, 255, 255);
     font-size: 150%;
 }
 
 div{
+    font-family: "Press Start 2P", system-ui;
+    font-family: "Press Start 2P", system-ui;
     background-color: orange;
     border-radius: 5px;
     display: inline-block;
@@ -38,6 +47,7 @@ div{
 }
 
 #fuego2{
+    font-family: "Press Start 2P", system-ui;
     margin-left: 45%;
     margin-right: 40%;
     color: white;
