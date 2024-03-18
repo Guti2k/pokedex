@@ -17,12 +17,11 @@ body {
     margin-right: 45%;
 }
 
-#columnas {
+.charmelon {
     display: flex;
     justify-content: space-between;
     background-color: transparent;
     width: 90%;
-    
 }
 
 img{
