@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Silkscreen:wght@400;700&display=swap');
 
-
 body {
-        
+        font-family: "Press Start 2P", system-ui;
         background-image: url(../img/kanto-map.jpeg);
         background-size: cover;
         background-position: center;
