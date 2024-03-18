@@ -31,6 +31,11 @@ body {
     
 }
 
+.wartortel {
+    font-family: "Press Start 2P", system-ui;
+    text-align: center;
+}
+
 img{
     font-family: "Press Start 2P", system-ui;
     height: 20%;
@@ -50,7 +55,7 @@ div{
     font-size: 150%;
 }
 
-a{
+#Agua2{
     font-family: "Press Start 2P", system-ui;
     margin-left: 45%;
     margin-right: 40%;
