@@ -17,11 +17,8 @@ body {
     margin-right: 45%;
 }
 
-.charmelon {
-    display: flex;
-    justify-content: space-between;
-    background-color: transparent;
-    width: 90%;
+.Charmelon {
+    text-align: center;
 }
 
 img{
