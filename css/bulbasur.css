@@ -11,11 +11,12 @@ body {
 }
 
 #bulbasur{
+    font-family: "Press Start 2P", system-ui;
     margin-left: 45%;
     font-size: 50px;
     color: rgb(255, 255, 255);
     margin-right: 45%;
-
+    text-align: center;
 }
 
 #columnas {
