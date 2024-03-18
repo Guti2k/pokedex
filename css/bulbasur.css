@@ -22,6 +22,7 @@ body {
 }
 
 #columnas {
+    font-family: "Press Start 2P", system-ui;
     display: flex;
     justify-content: space-between;
     background-color: transparent;
@@ -31,19 +32,24 @@ body {
 
 .Ivysaur {
     font-family: "Press Start 2P", system-ui;
+    font-family: "Press Start 2P", system-ui;
     text-align: center;
 }
 
 img{
+    font-family: "Press Start 2P", system-ui;
     height: 20%;
     width: 20%;
 }
+
 p{
+    font-family: "Press Start 2P", system-ui;
     color: rgb(255, 255, 255);
     font-size: 150%;
 }
 
 div{
+    font-family: "Press Start 2P", system-ui;
     background-color: rgb(98, 30, 208);
     border-radius: 5px;
     display: inline-block;
@@ -51,6 +57,7 @@ div{
 }
 
 #planta2{
+    font-family: "Press Start 2P", system-ui;
     margin-left: 45%;
     margin-right: 40%;
     color: rgb(0, 0, 0);
