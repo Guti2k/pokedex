@@ -40,11 +40,11 @@ div{
     font-size: 150%;
 }
 
-a{
+#fuego2{
     margin-left: 45%;
     margin-right: 40%;
     color: white;
-    background-color: red;
+    background-color: rgb(255, 0, 0);
     text-decoration: none;
     display: inline-block;
     text-align: center;
